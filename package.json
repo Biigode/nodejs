@@ -1,0 +1,9 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "A product to study apis with node.js",
+  "main": "app.ts",
+  "repository": "git@github.com:Alfreita/nodejs.git",
+  "author": "Almeida <victor.freitas08@hotmail.com>",
+  "license": "MIT"
+}
