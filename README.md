@@ -43,6 +43,8 @@ $ yarn run start:dev
 
 # production mode
 $ yarn run start:prod
+
+$ docker compose up -d --build
 ```
 
 ## Test
